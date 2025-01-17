@@ -37,7 +37,7 @@ metadata:
     #jira/project-key: IDP
     ## Jira plugin - End
   tags:
-    - Domesh
+    - domesh
 spec:
   type: service
   owner: CMF
